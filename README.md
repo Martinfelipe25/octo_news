@@ -1,4 +1,4 @@
-Salud
+# Salud
 A medida que la variante delta del covid-19 se propaga por el mundo, muchas personas quieren saber qué pueden hacer para mantenerse a salvo. Incluso se preguntan si deberían obtener más protección buscando una segunda o tercera dosis o combinando vacunas.
 Al respecto, Leonardo Arregocés, director de Medicamentos y Tecnologías en Salud, explicó que hasta el momento la evidencia para tomar una decisión sobre una tercera dosis es limitada. "Tenemos una experiencia de vacunación covid-19 de 8 meses en el mundo y es muy pronto para saberlo. Lo que muestran los estudios preliminares es que tras una tercera dosis los anticuerpos suben rápidamente", dijo.
 Eso, sin embargo, no significa que la protección de las primeras vacunas sea insuficiente. Lo que indica es que están generando la memoria inmunológica necesaria. "Muestra que el sistema inmune aprendió a atacar el patógeno y por eso tiene una respuesta rápida cuando se enfrenta nuevamente a él", aclaró.
