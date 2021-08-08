@@ -1,2 +1,2 @@
-OCTO_NEWS
+#OCTO_NEWS
 noticiero informatica
