@@ -1,4 +1,4 @@
-# OCTO_NEWS
+# Entretenimiento
 Disney reveló el miércoles los precios de su nuevo y esperado hotel de Star Wars, y adentrarse en una galaxia muy, muy lejana durante unos días no será barato.
 
 
