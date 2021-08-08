@@ -1,5 +1,5 @@
 # Tecnologia
-noticiero informatica
+Noticiero informatica
 El avance que la ingeniería biomédica esta realizando.
 Toda la noticia se centra en la Universidad Atlántica de Florida, ya que sus investigadores presentaron un estudio que podría ser de gran ayuda para aquellas personas que no tienen sus manos, ellos quieren modificar 
 las protesis para adicionarles  unos Sensores Táctiles de Metal Líquido, para que estas personas no sean privadas de las sensaciones basicas, a continuacion lo que piensa Erik Engeberg, líder de la iniciativa “Los 
